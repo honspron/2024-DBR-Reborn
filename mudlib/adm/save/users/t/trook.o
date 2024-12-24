@@ -1,0 +1,65 @@
+#/std/user.c
+encumbrance 500
+props (["xp mod":15,"light":0,"hp advance":38,"melee damage":(["crushing":6,]),"last reinc":1734484065,"handedness":"left hand","reincarnate":1,"dev point base":69,"mp advance":18,"last read news":1735026571,"dev cost":-2,"cross guild":"assassin","old exp":0,"sp points":62,"bleeding":140,"ambidextry":1,"base mp regen":20,"long term progress":0,"base hp regen":25,"long term skill name":0,"combat color":"%^BOLD%^","dev points":68,])
+true_name "trook"
+creator "/adm/obj/login#154141"
+max_internal_encumbrance 2700
+player_data (["kills":({1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130,132,131,0,15,0,13,10,73,12,14,11,0,0,42,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,0,45,76,85,77,78,86,144,79,134,175,366,161,164,}),"general":(["sp":1,"exp buffer":0,"alignment":36,"max_hp":1404,"hp":1404,"max exp":49683694,"experience":47359570,"quest points":0,"last adjust":1735026456,"max_sp":770,]),])
+magic (["max points":702,"points":702,])
+severed ([])
+healing (["quenched":900,])
+body (["torso":(["damage":0,"armour_ob":({}),"max_dam":1404,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"left leg":(["damage":0,"armour_ob":({}),"max_dam":468,"weapons":0,"ac":0,"limb_ref":"left foot","armour":({}),]),"right foot":(["damage":0,"armour_ob":({}),"max_dam":351,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right leg":(["damage":0,"armour_ob":({}),"max_dam":468,"weapons":0,"ac":0,"limb_ref":"right foot","armour":({}),]),"head":(["damage":0,"armour_ob":({}),"max_dam":702,"weapons":0,"ac":0,"limb_ref":"FATAL","armour":({}),]),"right hand":(["damage":0,"armour_ob":({}),"max_dam":351,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left foot":(["damage":0,"armour_ob":({}),"max_dam":351,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"left arm":(["damage":0,"armour_ob":({}),"max_dam":468,"weapons":0,"ac":0,"limb_ref":"left hand","armour":({}),]),"left hand":(["damage":0,"armour_ob":({}),"max_dam":351,"wieldable":1,"weapons":0,"ac":0,"limb_ref":"","armour":({}),]),"right arm":(["damage":0,"armour_ob":({}),"max_dam":468,"weapons":0,"ac":0,"limb_ref":"right hand","armour":({}),]),])
+limbs ({"left leg","torso","head","right leg","right foot","right hand","left arm","left foot","right arm","left hand",})
+all_my_fingers 5
+heal_rate 55
+char_class "thief"
+skills (["dance of daggers":(["stat":"dexterity","last dev":({25,2,}),"last use":1735025276,"level":78,]),"poison lore":(["stat":"intelligence","last dev":({25,2,}),"last use":1735025416,"level":64,]),"magic mastery":(["stat":"intelligence","last dev":({25,4,}),"level":83,]),"reverse stroke":(["stat":"dexterity","last dev":({25,3,}),"level":65,]),"pick locks":(["stat":"dexterity","last dev":({25,2,}),"level":87,]),"pick pocket":(["stat":"dexterity","last dev":({25,2,}),"level":102,]),"steal":(["stat":"dexterity","last dev":({25,2,}),"level":102,]),"lock smithing":(["stat":"dexterity","last dev":({25,3,}),"level":58,]),"consider lock":(["stat":"dexterity","last dev":({25,2,}),"level":87,]),"back stab":(["stat":"dexterity","last dev":({25,3,}),"level":99,]),"disguise":(["stat":"dexterity","last dev":({11,1,}),"level":20,]),"spell sense":(["stat":"intelligence","last dev":({17,1,}),"level":5,]),"prospecting":(["stat":"intelligence","last dev":({25,2,}),"last use":1735025416,"level":75,]),"dual attack":(["stat":"dexterity","last dev":({25,4,}),"level":66,]),"paralysis magic":(["stat":"intelligence","last dev":({25,1,}),"level":56,]),"blade magic":(["stat":"intelligence","last dev":({25,1,}),"level":63,]),"stalk":(["stat":"dexterity","last dev":({25,2,}),"level":82,]),"duel mastery":(["stat":"dexterity","last dev":({25,5,}),"level":78,]),"swimming":(["stat":"constitution","last dev":({24,2,}),"level":94,]),"vision magic":(["stat":"intelligence","last dev":({25,1,}),"level":56,]),"jugular slash":(["stat":"strength","last dev":({25,3,}),"last use":1735025560,"level":93,]),"shadow":(["stat":"dexterity","last dev":({25,2,}),"level":65,]),"stealth":(["stat":"dexterity","last dev":({25,2,}),"level":98,]),"melee":(["last dev":({0,0,}),"max":0,"points":0,"level":0,]),"invulnerability mastery":(["stat":"strength","last dev":({25,3,}),"level":54,]),"invisibility art":(["stat":"dexterity","last dev":({25,2,}),"level":75,]),"tumble":(["stat":"dexterity","last dev":({25,2,}),"last use":1735024369,"level":66,]),"knife":(["stat":"dexterity","last dev":({25,5,}),"level":151,]),"assassin's magic":(["stat":"intelligence","last dev":({25,2,}),"level":54,]),"peek":(["stat":"dexterity","last dev":({25,2,}),"level":94,]),"perception":(["stat":"intelligence","last dev":({25,6,}),"level":74,]),"detect magic":(["stat":"intelligence","last dev":({20,1,}),"level":5,]),"strike mastery":(["stat":"strength","last dev":({25,2,}),"level":56,]),"hide in shadows":(["stat":"dexterity","last dev":({25,2,}),"level":98,]),"dodge":(["stat":"dexterity","last dev":({25,2,}),"level":86,]),"parry":(["stat":"dexterity","last dev":({25,2,}),"level":104,]),"trade lore":(["stat":"charisma","last dev":({25,3,}),"level":92,]),"attack":(["stat":"dexterity","last dev":({25,5,}),"max":0,"points":0,"level":151,]),])
+spells ([])
+wimpydir "out"
+hits 9
+i 1
+j 1
+k 2
+num_attacks 1
+x 17
+num_rounds 1
+skill 159
+env_var (["TITLE":"Adept $N the China-man","start":"/d/damned/virtual/room_10_10.world","prompt":"%^BOLD%^%^RED%^HP:$h/$H%^BLUE%^ MP:$m/$M %^ORANGE%^EXP:$tnl %^RESET%^$ls %^CYAN%^$lr%^RESET%^\\n>","LINES":"70","TERM":"xterm-256","SCORE":"on",])
+money ([])
+ok_to_heal 168998
+player_age 168996
+sight_bonus -1
+gender "male"
+state "stand"
+stats (["wisdom":57,"dexterity":110,"intelligence":85,"constitution":90,"strength":90,"charisma":51,])
+languages (["goblinish":1,"common":10,"china-manish":10,])
+primary_language "common"
+language_exp (["goblinish":({22,0,}),"orcish":({10,0,}),"elfish":({22,0,}),"middle-english":({15,0,}),])
+xp_to_next_dev 49686887
+alias (["hs":"use hide in shadows","7":"use jugular slash at $*","ts":"trian steal","w":"west","6":"use steal at $*","tdm":"train duel mastery","5":"use back stab at $*","u":"up","t":"train $*","tpp":"train pick pocket","tp":"train parry","4":"cast *2 mind freeze at $*","s":"south","3":"use dance of daggers","2":"use tumble","tpm":"train paralysis magic","1":"use poison lore","p":"peer $*","tpl":"train poison lore","tk":"train knife","tim":"train invulnerability mastery","lever":"pull lever","n":"north","bio":"biography","tdd":"train dance of daggers","l":"look $*","tbm":"train blade magic","k":"kill $*","i":"inventory","td":"throw dagger","ta":"train attack","e":"east","d":"down","tia":"train invisibility art","tsm":"train strike mastery","`":"use prospecting at mineral","nw":"northwest","pk":"use pick locks at $*","lsp":"list spells","df":"drink fountain","sw":"southwest","exa":"look at $*","ss":"say shopkeeper, $*","tvm":"train vision magic","ls":"list skills","ia":"use invisibility art","ne":"northeast","tam":"train assassin's magic","se":"southeast","tmm":"train magic mastery","sc":"score","gcc":"get coins from corpse $*",])
+xverb (["$\"":"say $*","$:":"emote $*","$'":"say $*",])
+nicknames (["gob":"goblin","snot":"snotling",])
+zexp 49683695
+znexp 61258577
+zlexp 11574882
+znlevel 26
+zlevel 25
+auto_load ({})
+level 25
+verbose_moves 1
+birth 1734484065
+blocked ([])
+exp_log ([1735026576:2324125,])
+keep ({})
+snatch "off"
+inf_block ({})
+real_name "Unknown"
+email "daniel.mcc@gmail.com"
+ip "73.127.55.186"
+last_on "Tue Dec 24 07:49:31 2024"
+password "$6$qsGAk3sY0oPu0W5W$p/dSwZgy94BYPEY1iyQ/RPisQyBeaVZcA4NLrLdUufL.D9PLQ7wag3whYfGEK0sZN2wMBTYEiHxHnxtx6jxyC/"
+race "china-man"
+original_site "65.181.58.40"
+position "player"
+primary_start "/d/daybreak/room/db_slum"
+quests ({})
